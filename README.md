@@ -1,6 +1,6 @@
 <h1 align="center">Hello, there!</h1>
 <h3>I'm João Pedro, a good old Computer Science student. Messing with codes is what I do best!</h3>
-<h5>- 🔭 Learning/working on: Swift, Go, Java.</h5>
+<h5>- 🔭 Learning/working on: Swift, Go, Java!</h5>
 <h5>- 📚 Where I study: UFPB (Universidade Federal da Paraíba).</h5>
 <h5>- PT/BR, EN.
 
